@@ -20,6 +20,9 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 
+![woosi8's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosi8&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosi8)](https://github.com/anuraghazra/github-readme-stats)
 
 
