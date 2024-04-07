@@ -14,8 +14,8 @@
 ## 📁 My Work
 
 ### - Company Projects
-- [React WebSite](https://www.lawsdaq.com){: target="_blank"}: Legal Tech Project
-- [링크이름](https://www.google.co.kr/){:target="_blank"}
+- [React WebSite](https://www.lawsdaq.com): Legal Tech Project
+
 
 
 
