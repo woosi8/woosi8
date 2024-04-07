@@ -14,7 +14,7 @@
 ## 📁 My Work
 
 ### - Company Projects
-- [React WebSite](https://www.lawsdaq.com): Legal Tech Project
+- [React WebSite](https://github.com/woosi8/Company-Project): Legal Tech Project
 
 
 
