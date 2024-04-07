@@ -15,7 +15,7 @@
 
 ### - Company Projects
 - [React WebSite](https://www.lawsdaq.com){: target="_blank"}: Legal Tech Project
-<a href="https://google.com" target="_blank">새창에서 열려랴 얍</a>
+
 
 
 ### - HTML,CSS
