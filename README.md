@@ -14,7 +14,7 @@
 ## 📁 My Work
 
 ### - Company Projects
-- [React WebSite](https://github.com/woosi8/css_compilation/tree/master/Simple_Css](https://www.lawsdaq.com): Legal Tech Project
+- [React WebSite](https://www.lawsdaq.com): Legal Tech Project
 
 ### - HTML,CSS
 
