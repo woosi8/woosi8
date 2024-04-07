@@ -13,6 +13,9 @@
 
 ## 📁 My Work
 
+### - Company Projects
+- [React WebSite](https://github.com/woosi8/css_compilation/tree/master/Simple_Css](https://www.lawsdaq.com): Legal Tech Project
+
 ### - HTML,CSS
 
 - [CSS_Compilation](https://github.com/woosi8/css_compilation/tree/master/Simple_Css): compile simple css examples
