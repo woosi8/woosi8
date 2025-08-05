@@ -10,7 +10,8 @@
 - E-mail: [tmfvmehek@gmail.com](mailto:tmfvmehek@gmail.com)
 - LinkedIn: [Hyuck Choi](https://www.linkedin.com/in/hyuck-choi-77923512b/)
 - **Github** : [woosi8](https://github.com/woosi8)
-- Portfolio : [FrontEnd](https://hyuck-portfolio.vercel.app)
+- Portfolio : <a href="https://hyuck-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">FrontEnd</a>
+
 
 ## 📁 My Work
 
